@@ -5,7 +5,7 @@
 
 | Public Pin + Selection | Public Pin | Hidden Pin |
 | ------ | ------ | ------ |
-| ![Screen1](./Images/Screen1.pngg) | ![Screen2](./Images/Screen2.png) | ![Screen3](./Images/Screen3.png) |
+| ![Screen1](./Images/Screen1.png) | ![Screen2](./Images/Screen2.png) | ![Screen3](./Images/Screen3.png) |
 
 
 ## License 
